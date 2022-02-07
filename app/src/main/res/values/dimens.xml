@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="widget_magin_normal">16dp</dimen>
+    <dimen name="textsize_normal">16sp</dimen>
+    <dimen name="widget_size_normal">56dp</dimen>
+    <dimen name="widget_padding_normal">4dp</dimen>
+</resources>
